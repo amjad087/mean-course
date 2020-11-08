@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_DB_PWD": "DwtUU3HFctrL5crp",
+    "JWT_KEY": "This is my secret string"
+  }
+}
